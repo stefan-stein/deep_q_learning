@@ -10,3 +10,7 @@ git clone  https://github.com/stefan-stein/deep_q_learning.git
 ```
 
 and open up the jupyter notebook.
+
+The included video shows a the 24th training episode. This is already reasonably stable for the most part, although the agent will still sometimes drift off to the side.
+
+`dqn.h5` is the trained model after 40 episodes.
